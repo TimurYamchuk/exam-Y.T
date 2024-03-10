@@ -1,0 +1,20 @@
+Oh, you make everything ****, ****, **** (****, ****, ****)
+_____________________________
+Name: temp1.txt
+Size: 419 bytes
+Number of replacements: 6
+_____________________________
+Oh, you make everything ****, ****, **** (****, ****, ****)
+_____________________________
+Name: temp2.txt
+Size: 513 bytes
+Number of replacements: 6
+_____________________________
+You make everything ****
+Oh, you make everything ****, ****, **** (****, ****, ****)
+Oh, you make everything (my demons) ****, ****, **** (****, ****, ****, my demons)
+_____________________________
+Name: temp3.txt
+Size: 587 bytes
+Number of replacements: 13
+_____________________________
